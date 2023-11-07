@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace cafe_pos_system
 {
-    public partial class frmLogin : Form
+    public partial class FrmLogin : Form
     {
-        public frmLogin()
+        public FrmLogin()
         {
             InitializeComponent();
         }
