@@ -1,6 +1,6 @@
 ﻿namespace cafe_pos_system
 {
-    partial class Form1
+    partial class frmlogin
     {
         /// <summary>
         /// Required designer variable.
